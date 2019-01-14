@@ -193,13 +193,16 @@
 				TargetAttributes = {
 					8C3DBE2B20901CA50008F386 = {
 						CreatedOnToolsVersion = 9.4;
+						LastSwiftMigration = 1010;
 					};
 					8C3DBE3F20901CA60008F386 = {
 						CreatedOnToolsVersion = 9.4;
+						LastSwiftMigration = 1010;
 						TestTargetID = 8C3DBE2B20901CA50008F386;
 					};
 					8C3DBE4A20901CA60008F386 = {
 						CreatedOnToolsVersion = 9.4;
+						LastSwiftMigration = 1010;
 						TestTargetID = 8C3DBE2B20901CA50008F386;
 					};
 				};
@@ -439,7 +442,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tetra.Sections;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -457,7 +460,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tetra.Sections;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -477,7 +480,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tetra.SectionsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sections.app/Sections";
 			};
@@ -498,7 +501,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tetra.SectionsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sections.app/Sections";
 			};
@@ -518,7 +521,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tetra.SectionsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = Sections;
 			};
@@ -538,7 +541,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tetra.SectionsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = Sections;
 			};

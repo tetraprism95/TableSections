@@ -28,8 +28,8 @@ class MarvelListController: UITableViewController
         
         navigationController?.navigationBar.barTintColor = UIColor.lightGray
         navigationController?.navigationBar.prefersLargeTitles = true
-        navigationController?.navigationBar.largeTitleTextAttributes = [NSAttributedStringKey.foregroundColor : UIColor.red]
-        navigationController?.navigationBar.titleTextAttributes = [NSAttributedStringKey.foregroundColor : UIColor.red]
+        navigationController?.navigationBar.largeTitleTextAttributes = [NSAttributedString.Key.foregroundColor : UIColor.red]
+        navigationController?.navigationBar.titleTextAttributes = [NSAttributedString.Key.foregroundColor : UIColor.red]
         
         tableView.register(UITableViewCell.self, forCellReuseIdentifier: cellId)
     }
