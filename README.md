@@ -2,7 +2,12 @@
 
 ## Who Is This For? (Beginner Level) (Done Programmatically)
 
-For beginners who are just learning how to implement and use UITableViewController with 2D Array. 
+For beginners who are just learning how to implement and use UITableViewController with 2D Array.
+Provides an outline sections and rows. Shows how indexing works. 
+
+## Demo
+
+![avengerstablesections](https://user-images.githubusercontent.com/36717095/51093181-c3c7bf80-176e-11e9-826d-055ff041f5da.gif)
 
 
 ## Requirements
