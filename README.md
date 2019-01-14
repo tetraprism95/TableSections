@@ -26,4 +26,4 @@ Xcode => Developing software for mainly, macOS, iOS, watchOS, and tvOS.
 
 ## Git Clone Terminal Over HTTPS
 
-<pre>  </pre>
+<pre> https://github.com/tetraprism95/TableSections.git </pre>
